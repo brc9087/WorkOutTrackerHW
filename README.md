@@ -1,7 +1,9 @@
 # WorkOutTrackerHW
-Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. Whenever a user submits a burger's name, your app will display the burger on the top of the page under ready to eat area -- waiting to be devoured. Each burger in the ready to eat area also has a Devour button. When the user clicks it, the burger will move to the bottom of the page under devoured burgers. Each burger on the will have a Delete Button. When the user clicks delete, it will be removed from the db and the page.
 
-Usage / Directions
+* As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
+
+## Usage / Directions
+--
 Click the link to fire up app ==> https://immense-waters-93242.herokuapp.com/
 Enjoy! Yummy!
 Add Burger 
@@ -10,14 +12,17 @@ Devour Burger
 
 Ready to Eat 
 
-Tools Used / Dependancies
+## Tools Used / Dependancies
+--
 node.js
-mysql workbench
+mongoose
 express
 jaws_db
 Heroku
 Github
 images
-Links
+
+## Links
+--
 https://immense-waters-93242.herokuapp.com/
-https://github.com/brc9087/Eat-Da-BurgerHW
+https://github.com/brc9087/WorkOutTrackerHW
