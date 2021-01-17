@@ -1,3 +1,4 @@
+//libraries required
 const express = require("express");
 const morgan = require("morgan");
 const mongoose = require("mongoose");
@@ -17,6 +18,7 @@ mongoose.connect(MONGODB_URI,{
     useFindAndModify:false
 })
 
+//instead of putting all routes in server new route folder created
 require("./routes/apiRoutes")(app);
 require("./routes/htmlRoutes")(app);
 
