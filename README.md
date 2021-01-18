@@ -4,9 +4,18 @@
 
 ## Usage / Directions
 --
-Click the link to fire up app ==> https://immense-waters-93242.herokuapp.com/
-Enjoy! Yummy!
-Add Burger 
+Click the link to fire up app and feel the burn! ==> https://boiling-cliffs-25283.herokuapp.com/
+* Add 
+    ![](./images/addExcercise.JPG )
+
+
+* Devour Burger
+    ![](./assets/Devoured.JPG)
+    
+    
+* Ready to Eat 
+    ![](./assets/ReadyToEat.JPG)
+
 
 Devour Burger 
 
