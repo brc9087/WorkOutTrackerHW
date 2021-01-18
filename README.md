@@ -23,12 +23,14 @@
 
 ## Tools Used / Dependancies
 --
-node.js
-mongoose
-express
-Heroku
-Github
-images
+* node.js
+* api routes
+* mongoose
+* mongodb
+* express
+* Heroku
+* Github
+* images
 
 ## Links
 --
