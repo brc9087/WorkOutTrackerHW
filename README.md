@@ -33,6 +33,5 @@
 * images
 
 ## Links
---
-https://boiling-cliffs-25283.herokuapp.com/
-https://github.com/brc9087/WorkOutTrackerHW
+* https://boiling-cliffs-25283.herokuapp.com/
+* https://github.com/brc9087/WorkOutTrackerHW
