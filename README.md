@@ -4,34 +4,34 @@
 
 ## Usage / Directions
 --
-Click the link to fire up app and feel the burn! ==> https://boiling-cliffs-25283.herokuapp.com/
-* Add 
-    ![](./images/addExcercise.JPG )
+* Click the link to fire up app and feel the burn! ==> https://boiling-cliffs-25283.herokuapp.com/
+--
+## Add Excercise
+* ![](./images/addExcercise.JPG )
 
+<br>
 
-* Devour Burger
-    ![](./assets/Devoured.JPG)
+## Home Page 
+* ![](./images/index.JPG )
+
+<br>
     
     
-* Ready to Eat 
-    ![](./assets/ReadyToEat.JPG)
+## Stats Page
+*  ![](./images/statsPage.JPG )
 
-
-Devour Burger 
-
-Ready to Eat 
+<br>
 
 ## Tools Used / Dependancies
 --
 node.js
 mongoose
 express
-jaws_db
 Heroku
 Github
 images
 
 ## Links
 --
-https://immense-waters-93242.herokuapp.com/
+https://boiling-cliffs-25283.herokuapp.com/
 https://github.com/brc9087/WorkOutTrackerHW
